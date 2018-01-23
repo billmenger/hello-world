@@ -1,2 +1,2 @@
 # hello-world
-test project
+# getting to know GITHUB
